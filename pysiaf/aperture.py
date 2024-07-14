@@ -42,7 +42,6 @@ import matplotlib
 from .utils import rotations, projection, polynomial
 from .utils.tools import an_to_tel, tel_to_an
 from .iando import read
-from .constants import HST_PRD_DATA_ROOT, HST_PRD_VERSION
 
 # shorthands for supported coordinate systems
 FRAMES = ('det', 'sci', 'idl', 'tel', 'raw', 'sky')

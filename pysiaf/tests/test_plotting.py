@@ -13,7 +13,6 @@ import os
 import matplotlib
 matplotlib.use('agg')
 import matplotlib.pyplot as pl
-import pytest
 
 from ..constants import JWST_TEMPORARY_DATA_ROOT
 from ..siaf import Siaf, plot_master_apertures

@@ -18,7 +18,6 @@ import sys
 
 from astropy.table import Table
 from numpy.testing import assert_allclose
-import pytest
 
 from ..constants import JWST_SOURCE_DATA_ROOT, JWST_DELIVERY_DATA_ROOT
 from ..siaf import Siaf

@@ -30,7 +30,6 @@ from pysiaf.constants import (
     JWST_SOURCE_DATA_ROOT,
     JWST_TEMPORARY_DATA_ROOT,
     JWST_DELIVERY_DATA_ROOT,
-    JWST_PRD_DATA_ROOT,
 )
 from pysiaf import iando
 from pysiaf.aperture import DISTORTION_ATTRIBUTES

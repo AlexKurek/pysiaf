@@ -18,7 +18,7 @@ import lxml.etree as ET
 from astropy.time import Time
 from astropy.table import Table, Column
 from openpyxl import Workbook
-from openpyxl.styles import Font, Color
+from openpyxl.styles import Font
 from openpyxl.styles import Alignment
 
 from ..constants import _JWST_TEMPORARY_ROOT

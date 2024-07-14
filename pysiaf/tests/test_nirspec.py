@@ -18,7 +18,7 @@ import matplotlib.pyplot as pl
 # import pytest
 from numpy.testing import assert_allclose
 
-from ..constants import JWST_TEMPORARY_DATA_ROOT, TEST_DATA_ROOT, JWST_SOURCE_DATA_ROOT, JWST_DELIVERY_DATA_ROOT
+from ..constants import JWST_SOURCE_DATA_ROOT, JWST_DELIVERY_DATA_ROOT
 from ..siaf import Siaf
 
 instrument = 'NIRSpec'

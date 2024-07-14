@@ -30,12 +30,6 @@ import matplotlib.pyplot as pl
 from .iando import read
 
 # from soc_roman_tools
-import sys
-import ast
-import importlib.resources as importlib_resources
-from xml.etree import ElementTree as ET
-
-
 
 
 class ApertureCollection(object):
